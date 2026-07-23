@@ -32,7 +32,7 @@ Soy un desarrollador backend apasionado por crear sistemas robustos y escalables
 ### 🌟 Proyectos Destacados
 
 #### Rentify | Plataforma Web para Alquiler de Propiedades 🏡
-[Demo en Vivo](https://rentify-eta-henna.versel.com) | [Documentación API](https://rentify-4x9t.onrender.com/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/Rentify)
+[Demo en Vivo](https://rentify-eta-henna.versel.app) | [Documentación API](https://rentify-4x9t.onrender.com/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/Rentify)
 
 **Descripción:**  
 Rentify es una plataforma web que facilita el alquiler temporal de propiedades, similar a Booking. La aplicación permite a los usuarios encontrar alojamientos según preferencias detalladas como tipo de propiedad (casa o departamento) y ubicación geográfica. Gracias a una interfaz intuitiva y un mapa interactivo, Rentify hace el proceso de búsqueda y reserva más rápido y sencillo.
@@ -53,7 +53,7 @@ Desarrollador Backend
 ---
 
 #### ReTrueque | Plataforma de Intercambio de Servicios 🌍🤝
-[Demo en Vivo](https://retrueque.onrender.com) | [Documentación API](https://retrueque.onrender/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/ReTrueque)
+[Demo en Vivo](https://re-trueque.versel.app) | [Documentación API](https://retrueque.onrender/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/ReTrueque)
 
 🛠️ **Descripción**  
 ReTrueque es una aplicación que conecta personas interesadas en intercambiar servicios y habilidades sin dinero. Cada usuario puede publicar lo que ofrece y lo que busca, generando un ambiente de colaboración y trueque digital. Ideal para quienes buscan aprender o colaborar.
