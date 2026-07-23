@@ -53,7 +53,7 @@ Desarrollador Backend
 ---
 
 #### ReTrueque | Plataforma de Intercambio de Servicios 🌍🤝
-[Demo en Vivo](https://re-trueque.vercel.app/) | [Documentación API](https://retrueque.onrender/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/ReTrueque)
+[Demo en Vivo](https://re-trueque.vercel.app/) | [Documentación API](https://retrueque.onrender.com/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/ReTrueque)
 
 🛠️ **Descripción**  
 ReTrueque es una aplicación que conecta personas interesadas en intercambiar servicios y habilidades sin dinero. Cada usuario puede publicar lo que ofrece y lo que busca, generando un ambiente de colaboración y trueque digital. Ideal para quienes buscan aprender o colaborar.
