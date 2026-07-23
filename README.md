@@ -32,7 +32,7 @@ Soy un desarrollador backend apasionado por crear sistemas robustos y escalables
 ### 🌟 Proyectos Destacados
 
 #### Rentify | Plataforma Web para Alquiler de Propiedades 🏡
-[Demo en Vivo](https://rentify-desarrollo.onrender.com/) | [Documentación API](https://s18-23-n-java-react.onrender.com/swagger-ui/index.html) | [Repositorio](https://github.com/No-Country-simulation/S18-23-n-java-react)
+[Demo en Vivo](https://rentify-eta-henna.versel.com) | [Documentación API](https://rentify-4x9t.onrender.com/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/Rentify)
 
 **Descripción:**  
 Rentify es una plataforma web que facilita el alquiler temporal de propiedades, similar a Booking. La aplicación permite a los usuarios encontrar alojamientos según preferencias detalladas como tipo de propiedad (casa o departamento) y ubicación geográfica. Gracias a una interfaz intuitiva y un mapa interactivo, Rentify hace el proceso de búsqueda y reserva más rápido y sencillo.
@@ -53,7 +53,7 @@ Desarrollador Backend
 ---
 
 #### ReTrueque | Plataforma de Intercambio de Servicios 🌍🤝
-[Demo en Vivo](https://s17-11-n-java-next-urev.onrender.com/) | [Documentación API](https://s17-11-n-java-next.onrender.com/swagger-ui/index.html) | [Repositorio](https://github.com/No-Country-simulation/s17-11-n-java-next)
+[Demo en Vivo](https://retrueque.onrender.com) | [Documentación API](https://retrueque.onrender/swagger-ui/index.html) | [Repositorio](https://github.com/EdgarCamberos1894/ReTrueque)
 
 🛠️ **Descripción**  
 ReTrueque es una aplicación que conecta personas interesadas en intercambiar servicios y habilidades sin dinero. Cada usuario puede publicar lo que ofrece y lo que busca, generando un ambiente de colaboración y trueque digital. Ideal para quienes buscan aprender o colaborar.
@@ -77,7 +77,7 @@ ReTrueque es una aplicación que conecta personas interesadas en intercambiar se
 ### 📁 Portafolio de Evidencias
 <p>Explora mis proyectos y trabajos anteriores para ver mis habilidades y experiencia:</p>
 <div>
-  <a href="https://link_a_tu_portafolio.com" target="_blank">
+  <a href="https://www.cambers.lat" target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio-%230077B5?style=for-the-badge" alt="Portafolio">
   </a>
   <a href="https://github.com/EdgarCamberos1894" target="_blank">
