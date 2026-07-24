@@ -2,6 +2,8 @@
 
 # Edgar Camberos
 
+![Banner de perfil de Edgar Camberos](https://github.com/user-attachments/assets/e48319ac-7b0c-4ce1-9722-5374383d1846)
+
 ### Java Backend Developer · Spring Boot · PostgreSQL · Docker
 
 Desarrollo APIs REST, sistemas modulares e integraciones backend con especial atención a la seguridad, la mantenibilidad y el despliegue.
@@ -151,17 +153,6 @@ Aplicación colaborativa para publicar, buscar e intercambiar servicios y habili
 
 - [Oracle Next Education — Formación Back-end](https://app.aluracursos.com/program/certificate/11c5c475-fb6f-4c82-ab39-42f6407998d5)
 - Aprendizaje continuo mediante proyectos colaborativos, simulaciones laborales y desarrollo de productos propios.
-
----
-
-## Actividad en GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EdgarCamberos1894&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub de Edgar Camberos" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarCamberos1894&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más utilizados por Edgar Camberos" />
-
-</div>
 
 ---
 
