@@ -9,7 +9,7 @@
 Desarrollo APIs REST, sistemas modulares e integraciones backend con especial atención a la seguridad, la mantenibilidad y el despliegue.
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-cambers.lat-0055FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cambers.lat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Camberos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-camberos-8a66052bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Camberos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-camberos-dev/)
 [![CV / Resume](https://img.shields.io/badge/CV_%2F_Resume-ES_%7C_EN-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white)](https://www.cambers.lat/#cv)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarcamberos18@gmail.com)
 
