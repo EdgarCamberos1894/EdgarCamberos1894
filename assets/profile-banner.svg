@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Edgar Camberos - Backend Developer</title>
+  <desc id="desc">Banner profesional con fondo azul marino, información de Java y Spring Boot y un esquema abstracto de una API REST.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="57%" stop-color="#101E36"/>
+      <stop offset="100%" stop-color="#073044"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#94A3B8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="300" rx="20" fill="url(#glow)"/>
+  <rect width="1280" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="64" y="55" width="5" height="184" rx="2.5" fill="url(#accent)"/>
+  <text x="92" y="103" fill="#D5E4F2" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="650" letter-spacing="3">EDGAR CAMBEROS</text>
+  <text x="92" y="163" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="740">Backend Developer</text>
+  <text x="92" y="203" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="24">Java · Spring Boot · PostgreSQL</text>
+  <text x="92" y="246" fill="#9FB3C8" font-family="Segoe UI, Arial, sans-serif" font-size="17">APIs REST  /  Seguridad  /  Datos  /  Integración</text>
+  <g transform="translate(824 48)">
+    <rect x="0" y="0" width="388" height="208" rx="19" fill="#091625" stroke="#2A5368" stroke-width="1.5"/>
+    <circle cx="26" cy="25" r="5" fill="#FB7185"/>
+    <circle cx="45" cy="25" r="5" fill="#FBBF24"/>
+    <circle cx="64" cy="25" r="5" fill="#34D399"/>
+    <text x="290" y="31" fill="#8BA9BD" font-family="Consolas, monospace" font-size="14">api/v1</text>
+    <path d="M 20 49 H 368" stroke="#345064" stroke-opacity=".65"/>
+    <rect x="24" y="69" width="75" height="29" rx="6" fill="#103E44"/>
+    <text x="37" y="89" fill="#67E8F9" font-family="Consolas, monospace" font-size="14" font-weight="bold">GET</text>
+    <text x="113" y="89" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">/api/resources</text>
+    <path d="M 24 115 H 364" stroke="#244153"/>
+    <rect x="24" y="131" width="77" height="29" rx="6" fill="#18314F"/>
+    <text x="35" y="151" fill="#A5B4FC" font-family="Consolas, monospace" font-size="14" font-weight="bold">POST</text>
+    <text x="113" y="151" fill="#E2E8F0" font-family="Consolas, monospace" font-size="16">/api/workflows</text>
+    <path d="M 24 175 H 364" stroke="#244153"/>
+    <circle cx="33" cy="190" r="4" fill="#2DD4BF"/>
+    <text x="48" y="194" fill="#9FB3C8" font-family="Consolas, monospace" font-size="13">security → domain → data</text>
+  </g>
+  <path d="M 779 84 L 793 84 M 786 77 L 786 91" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 1214 270 L 1226 270 M 1220 264 L 1220 276" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round"/>
+</svg>

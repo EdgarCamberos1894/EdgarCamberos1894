@@ -8,9 +8,18 @@ Desarrollo APIs REST y soluciones backend con especial atención a la seguridad,
 
 [**Portafolio**](https://cambers.cv) · [**CV en español**](https://cambers.cv/cv/Edgar-Camberos-Backend-Developer-CV-ES.pdf) · [**Resume in English**](https://cambers.cv/cv/Edgar-Camberos-Backend-Developer-Resume-EN.pdf) · [**LinkedIn**](https://www.linkedin.com/in/edgar-camberos-dev/) · [**Correo**](mailto:edgarcamberos18@gmail.com)
 
+![Java 17](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security JWT](https://img.shields.io/badge/Spring_Security-JWT-4C9A2A?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 📍 Tepic, Nayarit, México · Abierto a oportunidades **Backend Developer**, con prioridad en trabajo remoto para México.
 
-![Banner del perfil de Edgar Camberos](https://github.com/user-attachments/assets/e48319ac-7b0c-4ce1-9722-5374383d1846)
+![Presentación de Edgar Camberos: Backend Developer, Java y Spring Boot](assets/profile-banner.svg)
 
 </div>
 
